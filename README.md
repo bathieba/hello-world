@@ -1,5 +1,5 @@
 # hello-world
-pour bein débuter avec GitHub
+pour bien débuter avec GitHub
 
 Ziar bou werr
 
